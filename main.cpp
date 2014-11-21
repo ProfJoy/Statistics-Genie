@@ -4,7 +4,7 @@
 //
 //  Created by Abey Joy on 4/24/14.
 //  Copyright (c) 2014 Abey Joy. All rights reserved.
-//
+//  Please use these functions at your own risk. I am not to be held responsible for any damages occured by implementation or usage of these functions.
 
 #include <iostream>
 #include <string>
